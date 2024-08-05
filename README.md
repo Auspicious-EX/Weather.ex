@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Auspicious-EX/CropSense/blob/main/IMG/Your%20Signature,%20Your%20Way.gif?raw=true)](https://)
+[![MasterHead](https://github.com/Auspicious-EX/Weather.ex/blob/main/weather/banner.gif?raw=true)](https://)
 
 # Weather.ex
 
@@ -18,11 +18,11 @@ This project is a dynamic and user-friendly weather showing website built using 
 - **JavaScript**: For fetching weather data from an API and updating the UI dynamically.
 
 ### Screenshots
-[![MasterHead](https://github.com/Auspicious-EX/CropSense/blob/main/IMG/Your%20Signature,%20Your%20Way.gif?raw=true)](https://)
+[![MasterHead](https://github.com/Auspicious-EX/Weather.ex/blob/main/weather/img1.png?raw=true)](https://)
 
 <hr>
 
-[![MasterHead](https://github.com/Auspicious-EX/CropSense/blob/main/IMG/Your%20Signature,%20Your%20Way.gif?raw=true)](https://)
+[![MasterHead](https://github.com/Auspicious-EX/Weather.ex/blob/main/weather/img2.png?raw=true)](https://)
 
 
 
